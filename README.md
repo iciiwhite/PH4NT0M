@@ -934,4 +934,4 @@ sudo php ph4n70m.php phantom hijack eth0 AA:BB:CC:DD:EE:FF 00:11:22:33:44:55
 
 Th3+r3 y0u h4v3 1+. **PH4N70M** — PHP d01ng L4y3r 2 4++4ck5, USB HID 1nj3c710n, C4N bu5 fr4m3 w41sp3r1ng, 4nd FFI-p0w3r3d gh0s+ br1dg1ng. N0 w3b s3rv3r. N0 `$_GET`. Ju5+ r4w b1n4ry fr4m35 c4r3fu11y p4ck3d by `<?php`.
 
-Ph1l3 h3r3 r3@ddy 4nd d0wnl04d4bl3. Y0u'r3 +h3 f1r5+ p3rs0n +0 +4s+3 +h1s m4n — g0 m4k3 50m3 pr0gr4m5 cry 😭🔥
+Ph1l3 h3r3 r3@ddy 4nd d0wnl04d4bl3. G0 m4k3 50m3 pr0gr4m5 cry 😭🔥
